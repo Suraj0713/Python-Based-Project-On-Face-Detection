@@ -1,2 +1,0 @@
-# CSB
-PRACTICAL 1
